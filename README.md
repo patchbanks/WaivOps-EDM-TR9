@@ -8,7 +8,7 @@ EDM-TR9 is an open audio dataset composed of a series of drum recordings in the 
 
 ## Dataset
 
-The primary objective of this dataset is to provide accessible content for machine learning applications in music and audio research. Some potential use cases for this dataset include tempo detection and classification, drum rhythm analysis, audio-to-MIDI conversion, source separation, automated mixing, music information retrieval, AI music generation, sound design, and signal processing.
+The primary objective of this dataset is to provide accessible content for machine learning applications in music and audio research. Some potential use cases for this dataset include tempo detection and classification, drum rhythm analysis, audio-to-MIDI conversion, source separation, automated mixing, music information retrieval, AI music generation, sound design and signal processing.
 
 **Specifications**
 
@@ -33,7 +33,7 @@ The EDM-TR9 dataset is licensed under Creative Commons Attribution 4.0 Internati
 
 The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
 
-Direct Download (4.81GB) [edm_tr9_drm_id_001.gz](https://zenodo.org/record/10278066/files/edm_tr9_drm_id_001.gz?download=1)
+Direct Download (4.81GB) [edm_tr9_drm_id_001.gz](https://zenodo.org/records/10278066/files/edm_tr9_drm_id_001.tar.gz?download=1)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10278066.svg)](https://doi.org/10.5281/zenodo.10278066)
 ## File Name Reference
