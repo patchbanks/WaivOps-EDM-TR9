@@ -4,7 +4,7 @@
 
 ## EDM-TR9 Dataset
 
-EDM-TR9 is an open audio dataset composed of a series of drum recordings in the style of electronic dance music. This dataset primarily focuses on the distinctive sounds and rhythm patterns of the Roland TR-909 drum machine within the subgenres of dance, house and techno music. The dataset contains 3780 audio loops recorded in uncompressed stereo WAV format, produced with custom drum samples and MIDI-programmed rhythms at various tempo rates.
+EDM-TR9 is an open audio dataset composed of a series of drum recordings in the style of electronic dance music (EDM). This dataset primarily focuses on the distinctive sounds and rhythm patterns of the Roland TR-909 drum machine within the subgenres of dance, house and techno music. The dataset contains 3780 audio loops recorded in uncompressed stereo WAV format, produced with custom drum samples and MIDI-programmed rhythms at various tempo rates.
 
 ## Dataset
 
@@ -17,7 +17,7 @@ The primary objective of this dataset is to provide accessible content for machi
 - BPM labeled
 - Tempo range: 120-140bpm
 - Variational drum patterns
-- Electronic dance and techno sound
+- EDM drum rhythms
 
 ## Examples
 
