@@ -4,7 +4,7 @@
 
 ## EDM-TR9 Dataset
 
-EDM-TR9 is an open audio dataset composed of a series of drum recordings in the style of electronic dance music. This dataset primarily focuses on the distinctive sounds and rhythm patterns of the Roland TR-909 drum machine within the subgenres of dance and techno music. The dataset contains 3780 audio loops recorded in uncompressed stereo WAV format, produced with custom drum samples and MIDI-programmed rhythms at various tempo rates.
+EDM-TR9 is an open audio dataset composed of a series of drum recordings in the style of electronic dance music. This dataset primarily focuses on the distinctive sounds and rhythm patterns of the Roland TR-909 drum machine within the subgenres of dance, house and techno music. The dataset contains 3780 audio loops recorded in uncompressed stereo WAV format, produced with custom drum samples and MIDI-programmed rhythms at various tempo rates.
 
 ## Dataset
 
@@ -12,7 +12,7 @@ The primary objective of this dataset is to provide accessible content for machi
 
 **Specifications**
 
-- 3780 audio loops (8 hours)
+- 3780 audio loops (approximately 8 hours)
 - 24-bit WAV format
 - BPM labeled
 - Tempo range: 120-140bpm
@@ -41,7 +41,7 @@ Direct Download (4.81GB) [edm_tr9_drm_id_001.gz](https://zenodo.org/record/10278
 | **Label**             | **Reference**                                                  |
 | ----------------- | ------------------------------------------------------------------ |
 | bpm  | The tempo of the audio file|
-| rtro | Main genre (edm)|
+| edm | Main genre (edm)|
 | drm | instrument (drums)|
 | id | Identification number|
 | _00 | Playlist track number|
@@ -52,7 +52,7 @@ If you use this dataset for a research or development project, please cite the f
 ```bash
 @misc{EDM-TR9,
 author = {WaivOps},
-title = {EDM-TR9},
+title = {WaivOps EDM-TR9: Open Audio Resources for Machine Learning in Music},
 year = {2023},
 doi = {10.5281/zenodo.10278066},
 url = {https://doi.org/10.5281/zenodo.10278066},
